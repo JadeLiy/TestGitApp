@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/JadeLiy/TestGitApp/blob/master/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/JadeLiy/TestGitApp/blob/master/icon2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>DingXingScpApp.com</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>DingXingScpApp</string>
+				<string>O2Oapp</string>
 			</dict>
 		</dict>
 	</array>

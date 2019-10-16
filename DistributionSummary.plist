@@ -2,12 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>DingXingScpApp.ipa</key>
+	<key>O2Oapp.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
 			<array>
-				<string>armv7</string>
 				<string>arm64</string>
 			</array>
 			<key>certificate</key>
@@ -20,7 +19,7 @@
 				<string>Unknown</string>
 			</dict>
 			<key>name</key>
-			<string>DingXingScpApp.app</string>
+			<string>O2Oapp.app</string>
 			<key>team</key>
 			<dict>
 				<key>id</key>
